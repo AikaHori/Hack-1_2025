@@ -1,0 +1,8 @@
+numpy
+SpeechRecognition
+openai-whisper
+scikit-learn
+librosa
+gTTS
+PyQt5
+google-generativeai
